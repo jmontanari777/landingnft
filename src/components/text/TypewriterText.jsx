@@ -5,7 +5,7 @@ const TypewriterText = () => {
     "Discover",
     "and Collect",
     "rare NTFs",
-    "The most secure markrtplace for buying ",
+    "The most secure marketplace for buying ",
     "and selling unique cripto assets "
   ], []);
 
