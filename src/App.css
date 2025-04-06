@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#roos { 
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0;
+  color: #f3f585;
+  background-color: rgb(255, 0, 43);
+ 
+}
+
+body, html, #root, .app-container {
+  background-color: #010336 !important;
+}
